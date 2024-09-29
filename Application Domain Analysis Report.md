@@ -2,7 +2,7 @@
 Group Project
 # Application Domain Analysis Report
 ### Introduction
-The application domain analysis for an 8-bit CPU simulator intended for low-cost, better-efficient communication devices is the main emphasis of this report. These gadgets are meant to facilitate text-based communication and mobile money transactions in places like rural or impoverished communities that have inadequate cell infrastructure. The objective is to gurantee that, while attending to the particular requirements of such context, the processor design satisfies the fundamental objectives of simplicity, efficiency, and cost-effectiveness.
+The application domain analysis for an 8-bit CPU simulator is intended for low-cost. Battery-efficient communication devices are the main emphasis of this report. These gadgets are meant to facilitate text-based communication and mobile money transactions in places like rural or impoverished communities that have inadequate cell infrastructure. The objective is to gurantee that, while attending to the particular requirements of such context, the processor design satisfies the fundamental objectives of simplicity, efficiency, and cost-effectiveness.
 ### Domain Overview
 Text-based communication and mobile money transactions are the two primary functions delivered by low-cost communication devices that use an 8-bit processor. In rural and disadvantaged regions, where infrastructure is poor and device cost must be kept cheap to ensure accessibility, these features are important. The CPU needs to be power-efficient enough to perform error correction, transaction validation, and basic message processing.
 
