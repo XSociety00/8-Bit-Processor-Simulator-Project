@@ -1,5 +1,4 @@
 # 8-Bit-Processor-Simulator-Project
-Group Project
 # Application Domain Analysis Report
 ### Introduction
 The application domain analysis for an 8-bit CPU simulator is intended for low-cost. Battery-efficient communication devices are the main emphasis of this report. These gadgets are meant to facilitate text-based communication and mobile money transactions in places like rural or impoverished communities that have inadequate cellular infrastructure. The objective is to gurantee that, while attending to the particular requirements of such context, the processor design satisfies the fundamental objectives of simplicity, efficiency, and cost-effectiveness. The 8-bit processor serves as a source to access and modify the protocols needed for text-based communication and mobile money transactions.
