@@ -53,6 +53,7 @@ Network: Ensuring effective processes for communication in places with limited b
 
 #### Opportunities
 Scalability: The CPU design may be modified for low-power uses.
+
 Cost-Effective solutions: This low production costs of this processor were designed to enable its usage in a number of affordable technical solutions, especially to individuals with little or no money.
 
 ### Conclusion
