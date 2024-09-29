@@ -2,7 +2,7 @@
 Group Project
 # Application Domain Analysis Report
 ### Introduction
-The application domain analysis for an 8-bit CPU simulator is intended for low-cost, battery-efficient communication devices are the main emphasis of this report. These gadgets are meant to facilitate text-based communication and mobile money transactions in places like rural or impoverished communities that have inadequate cell infrastructure. The objective is to gurantee that, while attending to the particular requirements of such context, the processor design satisfies the fundamental objectives of simplicity, efficiency, and cost-effectiveness.
+The application domain analysis for an 8-bit CPU simulator intended for low-cost, better-efficient communication devices is the main emphasis of this report. These gadgets are meant to facilitate text-based communication and mobile money transactions in places like rural or impoverished communities that have inadequate cell infrastructure. The objective is to gurantee that, while attending to the particular requirements of such context, the processor design satisfies the fundamental objectives of simplicity, efficiency, and cost-effectiveness.
 ### Domain Overview
 Text-based communication and mobile money transactions are the two primary functions delivered by low-cost communication devices that use an 8-bit processor. In rural and disadvantaged regions, where infrastructure is poor and device cost must be kept cheap to ensure accessibility, these features are important. The CPU needs to be power-efficient enough to perform error correction, transaction validation, and basic message processing.
 
@@ -10,11 +10,11 @@ Key Functionalities:
 Text-based communicaton: Devices will support basic messaging services such as SMS protocols.
 Mobile money transactions: Secure and efficient processing of mobile payments, including balance checks, transfers, and bill payments.
 ### User Requirements
-These devices users will be working in limited resource conditions. As a result, the CPU must satsfy these important requirement:
+These devices users will be working in limited resource conditions. As a result, the CPU must satisfy these important requirement:
 
-Energy efficiency: Because users might not always have access to energy, a long battery life is important.
+Power supply efficiency: Because users might not always have access to power, a long battery life-span is important.
 
-Simplicity: To reduce processing demands, the system should have a straightforward/simple architecture and user interface.
+Simplicity: To reduce processing demands, the system should have a straight forward/simple architecture and user interface.
 
 Reliability: Even in locations with inconsistent networks or electricity, the CPU must ensure stable operation.
 
@@ -31,14 +31,15 @@ Processing speed: Quick enough to carry out basic commands for exchanging and tr
 Memory size: A smaller, effective memory that stores the information required for messages and transactions. Low power consumption should be maintained for the cache and main memory.
 Battery efficiency: To increase device battery life, the system should be set up to use the least amount of power posssible.
 
-Basic operations(arithmetic, logic and data transfer) should be included int he instruction set architecture(ISA) for text encoding/decoding an dtransaction processing.
+Basic operations(arithmetic, logic and data transfer) should be included into the instruction set architecture(ISA) for text encoding/decoding and transaction processing.
 ### Example Use Cases
 As examples of how the system will be used, consider the following possible use cases:
-1. Text-based communication: using a straighforwad interface, a user may send text messages. Without much delay, the message is encoded, transmitted using a low-bandwidth network, and recieved at the other end.
+1. Text-based communication: using a straighforwad interface, a user may send text messages. Without much delay, the message is encoded, transmitted using a low-bandwidth network, and recieved then decoded at the other end.
 2. Mobile Money Transaction: A user  checks their account balance and sends money to another user. The transaction is securely processed, and both users recieve confirmation of their transfer in real-time, even with limited bandwidth/connectivity.
+3. Database: The system shall encapsulate cloud or local storage to allow users to have passwords and be the only ones able to access their accounts via login.
 ### Challenges and Opportunities
 #### Challenges
-Low Power Usage: creating a cpu with as little power consumption as possible without sacrificing stable operation
+Low Power Usage: creating a CPU with as little power consumption as possible without sacrificing stable operation.
 Network: Ensuring effective processes for communication in places with limited bandwidth.
 #### Opportunities
 Scalability: The CPU design may be modified for low-power uses.
