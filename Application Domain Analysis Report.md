@@ -61,7 +61,22 @@ In Conclusion, this project's 8-Bit processor design has to be optimized for low
 
 ### References
 
--"The Role of Mobile Money in Financial Inclusion"
+_-"The Role of Mobile Money in Financial Inclusion"_
 
-Author: T. G. M. W. M. A. Abubakar
+_Author: T. G. M. W. M. A. Abubakar_
 
+_Source: The Journal of Financial Regulation and Compliance_
+
+
+_-"Low-Cost Mobile Communication Technologies"_
+
+_Authors: D. S. V. K. S. A. Kumar, et al._
+
+_Source: IEEE Communications Surveys & Tutorials_
+
+
+_-"Designing for Low-Power Consumption in Embedded Systems"_
+
+_Authors: J. M. Rabaey, et al._
+
+_Source: IEEE Transactions on Very Large Scale Integration (VLSI) Systems_
